@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaJackAudio", "PruebaJackAudio.csproj", "{05A56AB4-7687-4DF4-9A80-E95427983A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaJackAudio.UITests", "PruebaJackAudio.UITests\PruebaJackAudio.UITests.csproj", "{0843C810-D6A3-475E-AFAF-32F62302F16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A56AB4-7687-4DF4-9A80-E95427983A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A56AB4-7687-4DF4-9A80-E95427983A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A56AB4-7687-4DF4-9A80-E95427983A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A56AB4-7687-4DF4-9A80-E95427983A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0843C810-D6A3-475E-AFAF-32F62302F16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0843C810-D6A3-475E-AFAF-32F62302F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0843C810-D6A3-475E-AFAF-32F62302F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0843C810-D6A3-475E-AFAF-32F62302F16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
