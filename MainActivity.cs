@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android.Media;
 
 namespace PruebaJackAudio
 {
@@ -28,6 +29,15 @@ namespace PruebaJackAudio
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
+
+			//this.ApplicationContext.StartService (new  Intent (this.BaseContext, NoisyAudioStreamReceiver));
+			/*IntentFilter filter = new IntentFilter ("ParseNoise");
+			var noise = new NoisyAudioStreamReceiver ();
+			RegisterReceiver (noise, filter);*/
+
+			var am = (AudioManager) this.GetSystemService(AudioService);
+			var componentName = new ComponentName(PackageName, new NoisyAudioStreamReceiver().NoisyName);
+			am.RegisterMediaButtonEventReceiver(componentName);
 		}
 	}
 }
