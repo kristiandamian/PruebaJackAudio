@@ -1,0 +1,14 @@
+http://dev.ugrokit.com/tools.html
+https://code.google.com/p/hijack-main/
+
+
+https://forums.xamarin.com/discussion/22122/headset-button-event-android-c
+
+
+http://www.codeproject.com/Articles/900071/Using-the-Audio-Jack-as-Data-Interface-on-Android
+http://developer.xamarin.com/guides/android/application_fundamentals/working_with_audio/
+http://stackoverflow.com/questions/12721254/how-to-calculate-sound-frequency-in-android
+
+
+
+https://github.com/brandonlw/magstripereader
