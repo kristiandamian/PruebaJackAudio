@@ -1,0 +1,17 @@
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/bin/Debug/PruebaJackAudio.dll.mdb
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/bin/Debug/PruebaJackAudio.dll
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/bin/Debug/com.riasoft.pruebajackaudio.apk
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/android/bin/com.riasoft.pruebajackaudio.apk
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/res/layout/main.xml
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/res/values/strings.xml
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/res/drawable-hdpi/icon.png
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/res/drawable-mdpi/icon.png
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/R.cs.flag
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/bin/Debug/com.riasoft.pruebajackaudio-Signed.apk
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/uploadflags.txt
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/PruebaJackAudio.dll
+/Users/kristiandamian/Documents/apps/PruebaJackAudio/obj/Debug/PruebaJackAudio.dll.mdb
