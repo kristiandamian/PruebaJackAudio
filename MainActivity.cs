@@ -37,7 +37,8 @@ namespace PruebaJackAudio
 
 			var am = (AudioManager) this.GetSystemService(AudioService);
 			var componentName = new ComponentName(PackageName, new NoisyAudioStreamReceiver().NoisyName);
-			am.RegisterMediaButtonEventReceiver(componentName);
+			//am.RegisterMediaButtonEventReceiver(componentName);
+			am.RegisterMediaButtonEventReceiver (componentName);
 		}
 	}
 }
